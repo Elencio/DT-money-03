@@ -1,0 +1,41 @@
+{
+  "transactions" : [
+    {
+      "id": 1,
+      "descriptions": "Desenvolvimento de sites",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+
+    {
+      "id": 2,
+      "descriptions": "Desenvolvimento de Soluções",
+      "type": "outcome",
+      "category": "venda",
+      "price": 5400,
+      "createdAt": "2022-07-29T10:36:44.505Z"
+    }
+    ,
+
+    {
+      "id": 3,
+      "descriptions": "Give Lessons at Saturday",
+      "type": "outcome",
+      "category": "education",
+      "price": 2000,
+      "createdAt": "2022-07-29T20:36:44.505Z"
+    }
+    ,
+
+    {
+      "id": 4,
+      "descriptions": "Mingau a Micha",
+      "type": "income",
+      "category": "alimentação",
+      "price": 900,
+      "createdAt": "2023-05-12T10:36:44.505Z"
+    }
+  ]
+}
